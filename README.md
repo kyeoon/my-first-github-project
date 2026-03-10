@@ -7,3 +7,5 @@ AI
 
 ## 목표
 프로젝트를 통해 GitHub 협업 경험 쌓기
+
+asdasfdasf
